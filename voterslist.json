@@ -1,0 +1,857 @@
+[
+  {
+    "id": "1",
+    "voter_id": "ZSL8535718",
+    "name": "सोनाली सुभाष नलगे",
+    "father_or_husband_name": "सुषमा नलगे",
+    "house_number": "",
+    "age": "37",
+    "gender": "महिला"
+  },
+  {
+    "id": "2",
+    "voter_id": "ZSL8402299",
+    "name": "सरिता नारयंदत्तकांडपाळ",
+    "father_or_husband_name": "नारयंदत्तकांडपाळ",
+    "house_number": "",
+    "age": "31",
+    "gender": "महिला"
+  },
+  {
+    "id": "3",
+    "voter_id": "ZSL8402307",
+    "name": "तनुजा नारयंदत्तकांडपाळ",
+    "father_or_husband_name": "नारयंदत्तकांडपाळ",
+    "house_number": "",
+    "age": "28",
+    "gender": "महिला"
+  },
+  {
+    "id": "4",
+    "voter_id": "ZSL9096926",
+    "name": "श्रीहरी राजाराम आंधळे",
+    "father_or_husband_name": "राजाराम आंधळे",
+    "house_number": "",
+    "age": "52",
+    "gender": "पुरुष"
+  },
+  {
+    "id": "5",
+    "voter_id": "ZSL9096918",
+    "name": "चंद्रकला श्रीहरी आंधळे",
+    "father_or_husband_name": "श्रीहरी आंधळे",
+    "house_number": "",
+    "age": "49",
+    "gender": "महिला"
+  },
+  {
+    "id": "6",
+    "voter_id": "ZSL8535007",
+    "name": "प्रवीण बसवराज आंदोडगीकऱ",
+    "father_or_husband_name": "बसवराज आंदोडगीकर",
+    "house_number": "",
+    "age": "38",
+    "gender": "पुरुष"
+  },
+  {
+    "id": "7",
+    "voter_id": "ZSL9096975",
+    "name": "संजय आत्माराम आसाबे",
+    "father_or_husband_name": "आत्माराम आसाबे",
+    "house_number": "",
+    "age": "41",
+    "gender": "पुरुष"
+  },
+  {
+    "id": "8",
+    "voter_id": "ZSL8535650",
+    "name": "दत्तात्रय धोंडीबा आसबे",
+    "father_or_husband_name": "धोंडीबा आसबे",
+    "house_number": "",
+    "age": "36",
+    "gender": "पुरुष"
+  },
+  {
+    "id": "9",
+    "voter_id": "ZSL8402166",
+    "name": "प्रकाश प्राभुलल आहिर",
+    "father_or_husband_name": "प्राभुलल आहिर",
+    "house_number": "",
+    "age": "32",
+    "gender": "पुरुष"
+  },
+  {
+    "id": "10",
+    "voter_id": "ZSL8402158",
+    "name": "ललिता प्रकाश आहिर",
+    "father_or_husband_name": "प्रकाश आहिर",
+    "house_number": "",
+    "age": "28",
+    "gender": "महिला"
+  },
+  {
+    "id": "11",
+    "voter_id": "ZSL9095829",
+    "name": "निशा विशाल अलंकार",
+    "father_or_husband_name": "विशाल अलंकार",
+    "house_number": "",
+    "age": "39",
+    "gender": "महिला"
+  },
+  {
+    "id": "12",
+    "voter_id": "ZSL8890980",
+    "name": "सुशिला एकनाथ अंभुरे",
+    "father_or_husband_name": "एकनाथ अंभुरे",
+    "house_number": "",
+    "age": "53",
+    "gender": "महिला"
+  },
+  {
+    "id": "13",
+    "voter_id": "ZSL8891079",
+    "name": "संजय एकनाथ अंभुरे",
+    "father_or_husband_name": "एकनाथ अंभुरे",
+    "house_number": "",
+    "age": "33",
+    "gender": "पुरुष"
+  },
+  {
+    "id": "14",
+    "voter_id": "ZSL8891061",
+    "name": "सुनिता संजय अंभुरे",
+    "father_or_husband_name": "संजय अंभुरे",
+    "house_number": "",
+    "age": "32",
+    "gender": "महिला"
+  },
+  {
+    "id": "15",
+    "voter_id": "ZSL8891087",
+    "name": "सुरेश एकनाथ अंभूरे",
+    "father_or_husband_name": "एकनाथ अंभूरे",
+    "house_number": "",
+    "age": "31",
+    "gender": "पुरुष"
+  },
+  {
+    "id": "16",
+    "voter_id": "ZSL8534869",
+    "name": "गौरव सुधीर आंबुलकर",
+    "father_or_husband_name": "सुधीर आंबुलकर",
+    "house_number": "",
+    "age": "29",
+    "gender": "पुरुष"
+  },
+  {
+    "id": "17",
+    "voter_id": "ZSL4678322",
+    "name": "जयश्री संजय आनंदपुरे",
+    "father_or_husband_name": "संजय आनंदपुरे",
+    "house_number": "",
+    "age": "46",
+    "gender": "महिला"
+  },
+  {
+    "id": "18",
+    "voter_id": "ZSL9097585",
+    "name": "तन्वीर झाहेदा अन्सारी",
+    "father_or_husband_name": "झाहेदा अन्सारी",
+    "house_number": "",
+    "age": "25",
+    "gender": "पुरुष"
+  },
+  {
+    "id": "19",
+    "voter_id": "ZSL9097593",
+    "name": "फिरदौस झाहेदा अन्सारी",
+    "father_or_husband_name": "झाहेदा अन्सारी",
+    "house_number": "",
+    "age": "25",
+    "gender": "महिला"
+  },
+  {
+    "id": "20",
+    "voter_id": "ZSL8731507",
+    "name": "सिध्देश्वर धोंडीबा आसबे",
+    "father_or_husband_name": "धोंडीबा आसबे",
+    "house_number": "",
+    "age": "36",
+    "gender": "पुरुष"
+  },
+  {
+    "id": "21",
+    "voter_id": "ZSL9096652",
+    "name": "राजेश मारुती अस्वार",
+    "father_or_husband_name": "मारुती अस्वार",
+    "house_number": "",
+    "age": "45",
+    "gender": "पुरुष"
+  },
+  {
+    "id": "22",
+    "voter_id": "ZSL9096819",
+    "name": "विष्णू संपतराव आवटे",
+    "father_or_husband_name": "संपतराव आवटे",
+    "house_number": "",
+    "age": "40",
+    "gender": "पुरुष"
+  },
+  {
+    "id": "23",
+    "voter_id": "ZSL9096827",
+    "name": "उषा विष्णू आवटे",
+    "father_or_husband_name": "विष्णू आवटे",
+    "house_number": "",
+    "age": "30",
+    "gender": "महिला"
+  },
+  {
+    "id": "24",
+    "voter_id": "ZSL8401895",
+    "name": "सुरेखा विजया बाग",
+    "father_or_husband_name": "विजया बाग",
+    "house_number": "",
+    "age": "38",
+    "gender": "महिला"
+  },
+  {
+    "id": "25",
+    "voter_id": "ZSL8535171",
+    "name": "गणेश गोरोबा वाळेकर",
+    "father_or_husband_name": "गोरोबा वालेकर",
+    "house_number": "",
+    "age": "34",
+    "gender": "पुरुष"
+  },
+  {
+    "id": "26",
+    "voter_id": "ZSL8889222",
+    "name": "सोमनाथ पांडुरंग बंडलकर",
+    "father_or_husband_name": "पांडुरंग बंडलकर",
+    "house_number": "",
+    "age": "25",
+    "gender": "पुरुष"
+  },
+  {
+    "id": "27",
+    "voter_id": "ZSL8889446",
+    "name": "संजुसिंघ रामसिंग बंडेला",
+    "father_or_husband_name": "रामसिंग बंडेला",
+    "house_number": "",
+    "age": "29",
+    "gender": "पुरुष"
+  },
+  {
+    "id": "28",
+    "voter_id": "ZSL8889396",
+    "name": "हिशा रामसिंग बंडेला",
+    "father_or_husband_name": "रामसिंग बंडेला",
+    "house_number": "",
+    "age": "25",
+    "gender": "महिला"
+  },
+  {
+    "id": "29",
+    "voter_id": "ZSL8889545",
+    "name": "रामसिंग बजीरसिंघ बंडेला",
+    "father_or_husband_name": "बजीरसिंघ बंडेला",
+    "house_number": "",
+    "age": "25",
+    "gender": "पुरुष"
+  },
+  {
+    "id": "30",
+    "voter_id": "ZSL8731440",
+    "name": "सहादू प्रभू बनकर",
+    "father_or_husband_name": "प्रभू बनकर",
+    "house_number": "",
+    "age": "74",
+    "gender": "पुरुष"
+  },
+  {
+    "id": "31",
+    "voter_id": "ZSL7236011",
+    "name": "नानासाहेब पांडुरंग बनसोडे",
+    "father_or_husband_name": "पांडुरंग बनसोडे",
+    "house_number": "",
+    "age": "43",
+    "gender": "पुरुष"
+  },
+  {
+    "id": "32",
+    "voter_id": "ZSL8535882",
+    "name": "मल्लिकार्जुन शंकर बनसोडे",
+    "father_or_husband_name": "शंकर बनसोडे",
+    "house_number": "",
+    "age": "37",
+    "gender": "पुरुष"
+  },
+  {
+    "id": "33",
+    "voter_id": "ZSL8535361",
+    "name": "निखील अनिल बाराते",
+    "father_or_husband_name": "अनिल बाराते",
+    "house_number": "",
+    "age": "29",
+    "gender": "पुरुष"
+  },
+  {
+    "id": "34",
+    "voter_id": "ZSL8890865",
+    "name": "प्राजक्ता प्रकाश बारमुख",
+    "father_or_husband_name": "प्रकाश बारमुख",
+    "house_number": "",
+    "age": "27",
+    "gender": "महिला"
+  },
+  {
+    "id": "35",
+    "voter_id": "ZSL8535379",
+    "name": "अनिल भगवान बारते",
+    "father_or_husband_name": "भगवान बारते",
+    "house_number": "",
+    "age": "53",
+    "gender": "पुरुष"
+  },
+  {
+    "id": "36",
+    "voter_id": "ZSL8535387",
+    "name": "निशा अनिल बारते",
+    "father_or_husband_name": "अनिल बारते",
+    "house_number": "",
+    "age": "47",
+    "gender": "महिला"
+  },
+  {
+    "id": "37",
+    "voter_id": "ZSL8889784",
+    "name": "मुकुंद - बर्वे",
+    "father_or_husband_name": "- बर्वे",
+    "house_number": "",
+    "age": "43",
+    "gender": "पुरुष"
+  },
+  {
+    "id": "38",
+    "voter_id": "ZSL8535395",
+    "name": "स्नेह एकनाथ बसत्कार",
+    "father_or_husband_name": "एकनाथ बसत्कार",
+    "house_number": "",
+    "age": "37",
+    "gender": "महिला"
+  },
+  {
+    "id": "39",
+    "voter_id": "ZSL8402075",
+    "name": "दिलीप गोविंद बेहेरा",
+    "father_or_husband_name": "गोविंद बेहेरा",
+    "house_number": "",
+    "age": "36",
+    "gender": "पुरुष"
+  },
+  {
+    "id": "40",
+    "voter_id": "ZSL8888901",
+    "name": "अमोल बाबू बेले",
+    "father_or_husband_name": "बाबू बेले",
+    "house_number": "",
+    "age": "37",
+    "gender": "पुरुष"
+  },
+  {
+    "id": "41",
+    "voter_id": "ZSL8888919",
+    "name": "तेजस्वी अमोल बेले",
+    "father_or_husband_name": "अमोल बेले",
+    "house_number": "",
+    "age": "25",
+    "gender": "महिला"
+  },
+  {
+    "id": "42",
+    "voter_id": "ZSL8889883",
+    "name": "सोमेश्वर नामदेव भगस",
+    "father_or_husband_name": "नामदेव भगस",
+    "house_number": "",
+    "age": "33",
+    "gender": "पुरुष"
+  },
+  {
+    "id": "43",
+    "voter_id": "ZSL4123832",
+    "name": "सारीका सुभाष भाकरे",
+    "father_or_husband_name": "सुभाष भाकरे",
+    "house_number": "",
+    "age": "32",
+    "gender": "महिला"
+  },
+  {
+    "id": "44",
+    "voter_id": "ZSL8535429",
+    "name": "प्रज्ञा बाळासाहेब भालेकर",
+    "father_or_husband_name": "बाळासाहेब भालेकर",
+    "house_number": "",
+    "age": "27",
+    "gender": "महिला"
+  },
+  {
+    "id": "45",
+    "voter_id": "ZSL8401879",
+    "name": "दिनकर विक्रम भमारे",
+    "father_or_husband_name": "विक्रम भमारे",
+    "house_number": "",
+    "age": "32",
+    "gender": "पुरुष"
+  },
+  {
+    "id": "46",
+    "voter_id": "ZSL8401887",
+    "name": "संगीता दिनकर भमारे",
+    "father_or_husband_name": "दिनकर भमारे",
+    "house_number": "",
+    "age": "32",
+    "gender": "महिला"
+  },
+  {
+    "id": "47",
+    "voter_id": "ZSL8888968",
+    "name": "अर्चना प्रदीप भांडालकर",
+    "father_or_husband_name": "प्रदीप भांडालकर",
+    "house_number": "चव्हाण नगर",
+    "age": "25",
+    "gender": "महिला"
+  },
+  {
+    "id": "48",
+    "voter_id": "ZSL9095308",
+    "name": "नेत्र प्रसाद भंडारी",
+    "father_or_husband_name": "खाकेंद्र प्रसाद भंडारी",
+    "house_number": "",
+    "age": "42",
+    "gender": "पुरुष"
+  },
+  {
+    "id": "49",
+    "voter_id": "ZSL8534893",
+    "name": "अण्णासाहेब पंडितराव भानुसे",
+    "father_or_husband_name": "पंडितराव भानुसे",
+    "house_number": "",
+    "age": "35",
+    "gender": "पुरुष"
+  },
+  {
+    "id": "50",
+    "voter_id": "ZSL8534810",
+    "name": "अनिता अण्णासाहेब भानुसे भानुसे",
+    "father_or_husband_name": "अचूतराव भानुसे",
+    "house_number": "",
+    "age": "28",
+    "gender": "महिला"
+  },
+  {
+    "id": "51",
+    "voter_id": "ZSL9096751",
+    "name": "कैलास गुलाबराव भापकर",
+    "father_or_husband_name": "गुलाबराव भापकर",
+    "house_number": "",
+    "age": "57",
+    "gender": "पुरुष"
+  },
+  {
+    "id": "52",
+    "voter_id": "ZSL9096553",
+    "name": "मोहन संपत भरणे",
+    "father_or_husband_name": "संपत भरणे",
+    "house_number": "",
+    "age": "34",
+    "gender": "पुरुष"
+  },
+  {
+    "id": "53",
+    "voter_id": "ZSL8889594",
+    "name": "देविदास कुंडलिक भिरेकर",
+    "father_or_husband_name": "कुंडलिक भिरेकर",
+    "house_number": "",
+    "age": "62",
+    "gender": "पुरुष"
+  },
+  {
+    "id": "54",
+    "voter_id": "ZSL8890808",
+    "name": "प्रमिला देविदास भिरेकर",
+    "father_or_husband_name": "देविदास भिरेकर",
+    "house_number": "",
+    "age": "50",
+    "gender": "महिला"
+  },
+  {
+    "id": "55",
+    "voter_id": "ZSL8889560",
+    "name": "विकास देविदास भिरेकर",
+    "father_or_husband_name": "देविदास भिरेकर",
+    "house_number": "",
+    "age": "32",
+    "gender": "पुरुष"
+  },
+  {
+    "id": "56",
+    "voter_id": "ZSL8891038",
+    "name": "किसन सखाराम भोमे",
+    "father_or_husband_name": "सखाराम भोमे",
+    "house_number": "",
+    "age": "77",
+    "gender": "पुरुष"
+  },
+  {
+    "id": "57",
+    "voter_id": "ZSL8535528",
+    "name": "संदेश तुकाराम भोनकर",
+    "father_or_husband_name": "तुकाराम भोनकर",
+    "house_number": "",
+    "age": "46",
+    "gender": "पुरुष"
+  },
+  {
+    "id": "58",
+    "voter_id": "ZSL8535536",
+    "name": "सुगंध संदेश भोनकर",
+    "father_or_husband_name": "संदेश भोनकर",
+    "house_number": "",
+    "age": "38",
+    "gender": "महिला"
+  },
+  {
+    "id": "59",
+    "voter_id": "ZSL9096314",
+    "name": "सुरेश धोडीराम भोसले",
+    "father_or_husband_name": "धोडीराम भोसले",
+    "house_number": "",
+    "age": "38",
+    "gender": "पुरुष"
+  },
+  {
+    "id": "60",
+    "voter_id": "ZSL7635378",
+    "name": "नवनाथ अशोक भोते",
+    "father_or_husband_name": "अशोक भोते",
+    "house_number": "",
+    "age": "37",
+    "gender": "पुरुष"
+  },
+  {
+    "id": "61",
+    "voter_id": "ZSL8402331",
+    "name": "गणेश भारत भोटे",
+    "father_or_husband_name": "भारत भोटे",
+    "house_number": "",
+    "age": "33",
+    "gender": "पुरुष"
+  },
+  {
+    "id": "62",
+    "voter_id": "ZSL9097056",
+    "name": "हरिष बाळू भोते",
+    "father_or_husband_name": "बाळू भोते",
+    "house_number": "",
+    "age": "24",
+    "gender": "पुरुष"
+  },
+  {
+    "id": "63",
+    "voter_id": "ZSL2844157",
+    "name": "ज्ञानेश्वर केरबा भुजबळ",
+    "father_or_husband_name": "केरबा भुजबळ",
+    "house_number": "",
+    "age": "57",
+    "gender": "पुरुष"
+  },
+  {
+    "id": "64",
+    "voter_id": "ZSL2844793",
+    "name": "अलका ज्ञानेश्वर भुजबळ",
+    "father_or_husband_name": "ज्ञानेश्वर भुजबळ",
+    "house_number": "",
+    "age": "53",
+    "gender": "महिला"
+  },
+  {
+    "id": "65",
+    "voter_id": "ZSL8889552",
+    "name": "देवबहादूर जगबहादूर भूल",
+    "father_or_husband_name": "जगबहादूर भूल",
+    "house_number": "",
+    "age": "63",
+    "gender": "पुरुष"
+  },
+  {
+    "id": "66",
+    "voter_id": "ZSL8889412",
+    "name": "जैश्री देव भूल",
+    "father_or_husband_name": "देव भूल",
+    "house_number": "",
+    "age": "58",
+    "gender": "महिला"
+  },
+  {
+    "id": "67",
+    "voter_id": "ZSL8888786",
+    "name": "धनबहादूर करणा भूल",
+    "father_or_husband_name": "करणा भूल",
+    "house_number": "",
+    "age": "54",
+    "gender": "पुरुष"
+  },
+  {
+    "id": "68",
+    "voter_id": "ZSL8888802",
+    "name": "मनबहादूर भक्ताबहादूर भूल",
+    "father_or_husband_name": "भक्ताबहादूर भूल",
+    "house_number": "",
+    "age": "40",
+    "gender": "पुरुष"
+  },
+  {
+    "id": "69",
+    "voter_id": "ZSL7726631",
+    "name": "नवनाथ निवृती भुसाळ",
+    "father_or_husband_name": "निवृती भुसाळ",
+    "house_number": "",
+    "age": "46",
+    "gender": "पुरुष"
+  },
+  {
+    "id": "70",
+    "voter_id": "ZSL7726359",
+    "name": "सविता नवनाथ भूसाळ",
+    "father_or_husband_name": "नवनाथ भूसाळ",
+    "house_number": "",
+    "age": "42",
+    "gender": "महिला"
+  },
+  {
+    "id": "71",
+    "voter_id": "ZSL9097452",
+    "name": "समाधान नामदेव भुसारी",
+    "father_or_husband_name": "नामदेव भुसारी",
+    "house_number": "",
+    "age": "43",
+    "gender": "पुरुष"
+  },
+  {
+    "id": "72",
+    "voter_id": "ZSL8535742",
+    "name": "वैभवी गणेश बिडकर",
+    "father_or_husband_name": "गणेश बिडकर",
+    "house_number": "",
+    "age": "33",
+    "gender": "महिला"
+  },
+  {
+    "id": "73",
+    "voter_id": "ZSL9095779",
+    "name": "संतोष गोविंदराव बिरादार",
+    "father_or_husband_name": "गोविंदराव बिरादार",
+    "house_number": "",
+    "age": "40",
+    "gender": "पुरुष"
+  },
+  {
+    "id": "74",
+    "voter_id": "ZSL9095787",
+    "name": "यमाला संतोष बिरादार",
+    "father_or_husband_name": "संतोष बिरादार",
+    "house_number": "",
+    "age": "37",
+    "gender": "महिला"
+  },
+  {
+    "id": "75",
+    "voter_id": "ZSL8889693",
+    "name": "सुमित राम बिरादार",
+    "father_or_husband_name": "राम बिरादार",
+    "house_number": "",
+    "age": "29",
+    "gender": "पुरुष"
+  },
+  {
+    "id": "76",
+    "voter_id": "ZSL9097171",
+    "name": "दिंगबर बळीराम बिराजदार",
+    "father_or_husband_name": "बळीराम बिराजदार",
+    "house_number": "",
+    "age": "60",
+    "gender": "पुरुष"
+  },
+  {
+    "id": "77",
+    "voter_id": "ZSL9593005",
+    "name": "मनीषा दिंगबर बिराजदार",
+    "father_or_husband_name": "दिंगबर बिराजदार",
+    "house_number": "",
+    "age": "53",
+    "gender": "महिला"
+  },
+  {
+    "id": "78",
+    "voter_id": "ZSL8889420",
+    "name": "हरी प्रेमराज बिष्ट",
+    "father_or_husband_name": "प्रेमराज बिष्ट",
+    "house_number": "",
+    "age": "63",
+    "gender": "पुरुष"
+  },
+  {
+    "id": "79",
+    "voter_id": "ZSL8889511",
+    "name": "रम्भादेवी हरी बिष्ट्",
+    "father_or_husband_name": "हरी बिष्ट्",
+    "house_number": "",
+    "age": "25",
+    "gender": "महिला"
+  },
+  {
+    "id": "80",
+    "voter_id": "ZSL8889404",
+    "name": "सिरजना हरि बिष्ट",
+    "father_or_husband_name": "हरि बिष्ट",
+    "house_number": "",
+    "age": "25",
+    "gender": "महिला"
+  },
+  {
+    "id": "81",
+    "voter_id": "ZSL8891053",
+    "name": "नेपल गौरांगो बिस्वास",
+    "father_or_husband_name": "गौरांगो बिस्वास",
+    "house_number": "",
+    "age": "33",
+    "gender": "पुरुष"
+  },
+  {
+    "id": "82",
+    "voter_id": "ZSL9096538",
+    "name": "आशा सुधीर खरात",
+    "father_or_husband_name": "सुधीर खरात",
+    "house_number": "",
+    "age": "42",
+    "gender": "महिला"
+  },
+  {
+    "id": "83",
+    "voter_id": "ZSL8401861",
+    "name": "राणी नागनाथ बोराडे",
+    "father_or_husband_name": "नागनाथ बोराडे",
+    "house_number": "",
+    "age": "41",
+    "gender": "महिला"
+  },
+  {
+    "id": "84",
+    "voter_id": "ZSL7236029",
+    "name": "अश्विनी विश्वनाथ बोऱ्हाडे",
+    "father_or_husband_name": "विश्वनाथ बोऱ्हाडे",
+    "house_number": "",
+    "age": "37",
+    "gender": "महिला"
+  },
+  {
+    "id": "85",
+    "voter_id": "ZSL8520058",
+    "name": "ईश्वर चन्ने",
+    "father_or_husband_name": "फत्तू चन्ने",
+    "house_number": "",
+    "age": "57",
+    "gender": "पुरुष"
+  },
+  {
+    "id": "86",
+    "voter_id": "ZSL8402265",
+    "name": "प्रियानात तरुण चटर्जी",
+    "father_or_husband_name": "तरुण चटर्जी",
+    "house_number": "",
+    "age": "36",
+    "gender": "पुरुष"
+  },
+  {
+    "id": "87",
+    "voter_id": "ZSL9522830",
+    "name": "उमेश भानारामजी चौधरी",
+    "father_or_husband_name": "भानारामजी चौधरी",
+    "house_number": "",
+    "age": "38",
+    "gender": "पुरुष"
+  },
+  {
+    "id": "88",
+    "voter_id": "ZSL9096330",
+    "name": "गीता उमेश चौधरी",
+    "father_or_husband_name": "उमेश चौधरी",
+    "house_number": "",
+    "age": "28",
+    "gender": "महिला"
+  },
+  {
+    "id": "89",
+    "voter_id": "ZSL7102205",
+    "name": "जयश्री मोहन चव्हाण",
+    "father_or_husband_name": "मोहन चव्हाण",
+    "house_number": "",
+    "age": "42",
+    "gender": "महिला"
+  },
+  {
+    "id": "90",
+    "voter_id": "ZSL8402091",
+    "name": "नारायण बापू चव्हाण",
+    "father_or_husband_name": "बापू चव्हाण",
+    "house_number": "",
+    "age": "44",
+    "gender": "पुरुष"
+  },
+  {
+    "id": "91",
+    "voter_id": "ZSL8731382",
+    "name": "अंबिका संजय चव्हाण",
+    "father_or_husband_name": "संजय चव्हाण",
+    "house_number": "",
+    "age": "38",
+    "gender": "महिला"
+  },
+  {
+    "id": "92",
+    "voter_id": "ZSL9095795",
+    "name": "सायबना भाऊराव चिंचोळे",
+    "father_or_husband_name": "भाऊराव चिंचोळे",
+    "house_number": "",
+    "age": "33",
+    "gender": "पुरुष"
+  },
+  {
+    "id": "93",
+    "voter_id": "ZSL9095803",
+    "name": "सखुबाई सायबना चिंचोळे",
+    "father_or_husband_name": "सायबना चिंचोळे",
+    "house_number": "",
+    "age": "31",
+    "gender": "महिला"
+  },
+  {
+    "id": "94",
+    "voter_id": "ZSL9095928",
+    "name": "परमेश्वर नामदेव चिंद्रावर",
+    "father_or_husband_name": "नामदेव चिंद्रावर",
+    "house_number": "",
+    "age": "25",
+    "gender": "पुरुष"
+  },
+  {
+    "id": "95",
+    "voter_id": "ZSL8888794",
+    "name": "श्रीपती प्रसाद चौधरी",
+    "father_or_husband_name": "प्रसाद चौधरी",
+    "house_number": "",
+    "age": "38",
+    "gender": "पुरुष"
+  }
+]
